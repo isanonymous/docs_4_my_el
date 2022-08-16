@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as o}from"./app.f56d6317.js";const D=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"c7tDocs/EFormItem.md"}'),t={name:"c7tDocs/EFormItem.md"},e=o("",4),p=[e];function l(c,r,_,i,F,m){return n(),a("div",null,p)}var u=s(t,[["render",l]]);export{D as __pageData,u as default};
