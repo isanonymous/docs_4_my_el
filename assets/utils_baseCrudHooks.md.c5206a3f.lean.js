@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as e,a as r}from"./app.ad3388c8.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utils/baseCrudHooks.md"}'),a={name:"utils/baseCrudHooks.md"},o=r("",2),s=[o];function i(c,l,_,b,u,g){return e(),d("div",null,s)}var m=t(a,[["render",i]]);export{p as __pageData,m as default};
