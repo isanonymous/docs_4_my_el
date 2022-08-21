@@ -1,0 +1,4 @@
+.content{ padding:0 !important }
+.content  .content-container{ max-width: 750px }
+.vp-doc [class*='language-'] code { padding-left: 4px }
+.vp-doc  a {text-decoration: underline;}

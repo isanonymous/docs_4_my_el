@@ -2,7 +2,7 @@
 <!-- ![ico](/v_logo.png) -->
 
 ## 示例
-<Card img-src="/v_logo.png" w="370px" img-h="90px" summary="Welcome to Your Vue.js App"/>
+`<Card img-src="/v_logo.png" w="370px" img-h="90px" summary="Welcome to Your Vue.js App"/>`
 
 ## 代码
 ```html

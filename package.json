@@ -7,15 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "deploy": "bash deploy.sh"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "vitepress": "^0.22.3"
-  },
   "dependencies": {
-    "my_el_ui": "^0.1.0"
+    "my_el_ui": "^0.1.2"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4"
   }
 }
